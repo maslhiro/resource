@@ -1,0 +1,4 @@
+node_modules
+front-end
+.idea
+**/package-lock.json
